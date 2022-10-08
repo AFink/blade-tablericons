@@ -1,5 +1,5 @@
 {
-    "version": "v1.41.2",
+    "version": "v1.101.0",
     "name": "afink/blade-tablericons",
     "description": "A package to easily make use of tabler-icons in your Laravel Blade views.",
     "keywords": [
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": "^7.2|^7.3|^7.4|^8.0",
-        "illuminate/support": "^7.14.0|^8.0",
+        "php": "^7.2|^8.0",
+        "illuminate/support": "^7.0|^8.0|^9.0",
         "blade-ui-kit/blade-icons": "^0.4|^0.5"
     },
     "require-dev": {
